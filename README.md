@@ -1,1 +1,1 @@
-# iSET
+# iSET module realization for Mathcad 15
